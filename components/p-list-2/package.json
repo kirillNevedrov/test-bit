@@ -1,12 +1,12 @@
 {
-  "name": "@bit/kirill-org-test.react-tutorial.product-list",
-  "version": "1.0.0",
-  "homepage": "https://bit.dev/kirill-org-test/react-tutorial/product-list",
+  "name": "@bit/kirill-org-test.react-tutorial.p-list-2",
+  "version": "0.0.1",
+  "homepage": "https://bit.dev/kirill-org-test/react-tutorial/p-list-2",
   "main": "dist/index.js",
   "componentId": {
     "scope": "kirill-org-test.react-tutorial",
-    "name": "product-list",
-    "version": "1.0.0"
+    "name": "p-list-2",
+    "version": "0.0.1"
   },
   "dependencies": {},
   "devDependencies": {},

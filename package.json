@@ -9,7 +9,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-    "@bit/kirill-org-test.test-1.product-list": "file:./components/product-list"
+    "@bit/kirill-org-test.react-tutorial.product-list": "file:./components/product-list",
+    "@bit/kirill-org-test.react-tutorial.p-list-2": "file:./components/p-list-2"
   },
   "scripts": {
     "start": "react-scripts start",
