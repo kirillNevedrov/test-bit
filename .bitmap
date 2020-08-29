@@ -24,7 +24,7 @@
         "origin": "IMPORTED",
         "originallySharedDir": "src/components/p-list-2"
     },
-    "kirill-org-test.react-tutorial/product-list@1.0.0": {
+    "kirill-org-test.react-tutorial/product-list@1.0.4": {
         "files": [
             {
                 "name": "index.js",
